@@ -1,0 +1,24 @@
+Black-tailed Jackrabbit,0
+Black-tailed deer,1
+Bobcat,2
+Brush Rabbit,3
+California Ground Squirrel,4
+California quail,5
+Coyote,6
+Dusky-footed Woodrat,7
+Fox Squirrel,8
+Gray Fox,9
+Great blue heron,10
+Human,11
+Mountain lion,12
+None,13
+Other,14
+Raccoon,15
+Stellers jay,16
+Striped skunk,17
+Unidentified bird,18
+Unidentified mammal,19
+Virginia Opossum,20
+Western Gray Squirrel,21
+Western scrub-jay,22
+Wild turkey,23
